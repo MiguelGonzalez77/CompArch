@@ -1,0 +1,4 @@
+.ORIG x3000
+STW R7, R6, #0
+HALT
+.END
