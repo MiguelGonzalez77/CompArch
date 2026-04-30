@@ -1,0 +1,4 @@
+Cycle Level Simulator - Project from Computer Architecture which includes a main program lc3bsim3 C source
+	file, microcode (ucode3) as well as a control signal spreadsheet. The objective was to properly implement the full FSM of 
+	the LC-3b using the datapath diagram, FSM path, and the microsequencer to establish what control signals needed to be on 
+	corresponding to what state as well as determining the next state based on the microsequencer. 
